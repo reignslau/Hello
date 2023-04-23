@@ -8,7 +8,7 @@ This is a basic Hello World prgoram. I created this to demonstrate the use of VS
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=SxVn9_a1n44))
 
 # Development Environment
 
