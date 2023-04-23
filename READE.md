@@ -16,10 +16,6 @@ This is a basic Hello World prgoram. I created this to demonstrate the use of VS
 * python 3.11.3 64bit
 * Git / GitHub
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
